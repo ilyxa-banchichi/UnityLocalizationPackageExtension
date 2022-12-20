@@ -1,0 +1,10 @@
+{
+    "name": "com.gameslab.unity-localization-package-extension",
+    "version": "1.0.0",
+    "unity": "2020.3",
+    "displayName": "Unity Localization Package Extension",
+    "description": "Extensions for the Unity localization package. Added SimpleLocalizedString with minimalistic property drawer",
+    "author": {
+      "name": "GamesLab"
+    }
+  }
